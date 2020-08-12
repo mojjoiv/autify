@@ -67,13 +67,15 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Devices
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Device Intergrations
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                The connection of various devices in order to allow them to communicate, interact, 
+                and interoperate. The main issue to face to achieve integration is the heterogeneity 
+                of communication protocols and data formats
                   </p>
               </div>
               <div className={
@@ -93,13 +95,16 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Data 
                   </div>
                 <h3 className="mt-0 mb-12">
                   Data-driven insights
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                When a company employs a “data-driven” approach, it means it makes strategic decisions based on data analysis and interpretation.
+                A data-driven approach enables companies to examine and organise their data with the goal of better serving their customers and 
+                consumers. By using data to drive its actions, an organisation can contextualise and/or personalise its messaging to its prospects 
+                and customers for a more customer-centric approach.
                   </p>
               </div>
               <div className={
@@ -119,13 +124,17 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  CHat_bot
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Automated Chats
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                A chatbot is a computer program that simulates human conversation through voice commands 
+                or text chats or both. Chatbot, short for chatterbot, is an Artificial Intelligence (AI) 
+                feature that can be embedded and used through any major messaging applications. There are 
+                a number of synonyms for chatbot, including "talkbot," "bot," "IM bot," "interactive agent" 
+                or "artificial conversation entity."
                   </p>
               </div>
               <div className={
